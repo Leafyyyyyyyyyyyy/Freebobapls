@@ -1,0 +1,22 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #babaca;
+}
+
+h1 {
+    color: #9bab1f;
+    border-bottom: 0px solid #eee;
+    padding-bottom: 10px;
+}
+
+p {
+    color: #9bab1f;
+    border-bottom: 0px solid #eee;
+    padding-bottom: 10px;
+}
